@@ -45,4 +45,3 @@ local function open(opts)
 end
 
 return open
--- open()
